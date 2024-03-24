@@ -1,0 +1,8 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\bin\Debug\artırıp  eksiltme.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\bin\Debug\artırıp  eksiltme.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp__eksiltme.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp__eksiltme.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp  eksiltme.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp  eksiltme.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp  eksiltme.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\artırıp  eksiltme\artırıp  eksiltme\obj\x86\Debug\artırıp__eksiltme.Form2.resources
